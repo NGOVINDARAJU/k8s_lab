@@ -9,4 +9,4 @@ spec:
   - protocol: TCP
     port: 80
     nodePort: 30001
-  type: NodePort111
+  type: NodePort
